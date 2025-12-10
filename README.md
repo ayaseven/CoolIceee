@@ -2,7 +2,6 @@
 > full stack developer, who does not disdain to engage in the front, a master at writing useless code.
 
 ## Level, Statistics
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoolIceee&show_icons=true&locale=en&layout=compact&theme=react" alt="CoolIceee" />
 
 [![codewars](https://www.codewars.com/users/サムライの道/badges/large)](https://www.codewars.com/users/サムライの道) 
 
